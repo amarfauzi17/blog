@@ -1,0 +1,11 @@
+admin
+admin@mail.com
+admin123
+
+author
+author@mail.com
+author123
+
+user
+user@mail.com
+user123
